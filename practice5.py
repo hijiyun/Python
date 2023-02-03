@@ -17,7 +17,7 @@
 # 1이 될때까지
 # 가능하면 최대한 많이 나누는 작업이 최적의 해를 보장?
 ### n,k를 공백을 기준으로 구분하여 입력 받기
-n, k = map(int, input().split())
+n, k  = map(int, input().split())
 
 result = 0
 
